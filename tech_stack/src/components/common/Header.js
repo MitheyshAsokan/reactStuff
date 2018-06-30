@@ -15,7 +15,7 @@ const styles = {
         fontSize: 20
     },
     viewStyle: {
-        backgroundColor: 'red',
+        backgroundColor: 'white',
         justifyContent: 'center',
         alignItems: 'center',
         height: 60,
@@ -28,4 +28,4 @@ const styles = {
     }
 };
 
-export {Header};
+export { Header };
